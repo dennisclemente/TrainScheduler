@@ -1,0 +1,9 @@
+.jumbotron {
+     background: #d69477;
+     min-width: 800px;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 6px;
+}
